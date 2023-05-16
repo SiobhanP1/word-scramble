@@ -1,3 +1,14 @@
 body {
     color: blueviolet;
 }
+
+.main-container {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-heading {
+    text-align: center;
+}
